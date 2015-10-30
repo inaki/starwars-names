@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Ger randome StarWars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inaki/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Inaki Aranzdi <iiaranzadi@gmail.com> (http://iaminaki.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inaki/starwars-names/issues"
+  },
+  "homepage": "https://github.com/inaki/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
